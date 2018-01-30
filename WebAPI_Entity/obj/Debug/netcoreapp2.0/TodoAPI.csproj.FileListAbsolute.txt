@@ -1,0 +1,10 @@
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.deps.json
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.runtimeconfig.json
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.runtimeconfig.dev.json
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.dll
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.0\TodoAPI.pdb
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.csproj.CoreCompileInputs.cache
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.AssemblyInfoInputs.cache
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.AssemblyInfo.cs
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.dll
+c:\users\lsantana\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.0\TodoAPI.pdb
