@@ -6,16 +6,19 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using System.Data.SqlClient;
+using Microsoft.Extensions.Logging;
 
 namespace WebAPI_Entity.Controllers
 {
     [Route("api/[controller]")]
     public class EmployeeController : Controller
     {
+        private readonly ILogger<EmployeeController> _logger;
         private readonly GeneralContext _context;
 
-        public EmployeeController(GeneralContext context)
+        public EmployeeController(GeneralContext context, ILogger<EmployeeController> logger)
         {
+            _logger = logger;
             _context = context;
         }
 
@@ -33,6 +36,7 @@ namespace WebAPI_Entity.Controllers
         [HttpGet]
         public IEnumerable<Employee> Get()
         {
+            _logger.LogInformation("Index page says hello", new object[0]);
             return _context.Employee.ToList();
         }
 
