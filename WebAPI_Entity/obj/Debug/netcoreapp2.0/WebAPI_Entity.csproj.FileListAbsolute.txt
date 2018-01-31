@@ -19,3 +19,14 @@ C:\Users\lsantana\source\repos\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2
 C:\Users\lsantana\source\repos\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2.0\WebAPI_Entity.AssemblyInfo.cs
 C:\Users\lsantana\source\repos\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2.0\WebAPI_Entity.dll
 C:\Users\lsantana\source\repos\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2.0\WebAPI_Entity.pdb
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\bin\Debug\netcoreapp2.0\WebAPI_Entity.deps.json
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\bin\Debug\netcoreapp2.0\WebAPI_Entity.runtimeconfig.json
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\bin\Debug\netcoreapp2.0\WebAPI_Entity.runtimeconfig.dev.json
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\bin\Debug\netcoreapp2.0\WebAPI_Entity.dll
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\bin\Debug\netcoreapp2.0\WebAPI_Entity.pdb
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2.0\WebAPI_Entity.csprojResolveAssemblyReference.cache
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2.0\WebAPI_Entity.csproj.CoreCompileInputs.cache
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2.0\WebAPI_Entity.AssemblyInfoInputs.cache
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2.0\WebAPI_Entity.AssemblyInfo.cs
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2.0\WebAPI_Entity.dll
+C:\Users\lsantana\Downloads\prj\API\WebAPI_Entity\WebAPI_Entity\obj\Debug\netcoreapp2.0\WebAPI_Entity.pdb

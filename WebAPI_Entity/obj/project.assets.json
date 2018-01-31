@@ -13133,11 +13133,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\lsantana\\source\\repos\\WebAPI_Entity\\WebAPI_Entity\\WebAPI_Entity.csproj",
+      "projectUniqueName": "C:\\Users\\lsantana\\Downloads\\prj\\API\\WebAPI_Entity\\WebAPI_Entity\\WebAPI_Entity.csproj",
       "projectName": "WebAPI_Entity",
-      "projectPath": "C:\\Users\\lsantana\\source\\repos\\WebAPI_Entity\\WebAPI_Entity\\WebAPI_Entity.csproj",
+      "projectPath": "C:\\Users\\lsantana\\Downloads\\prj\\API\\WebAPI_Entity\\WebAPI_Entity\\WebAPI_Entity.csproj",
       "packagesPath": "C:\\Users\\lsantana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lsantana\\source\\repos\\WebAPI_Entity\\WebAPI_Entity\\obj\\",
+      "outputPath": "C:\\Users\\lsantana\\Downloads\\prj\\API\\WebAPI_Entity\\WebAPI_Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -13155,8 +13155,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "\\\\braganca.orizon.local\\Orizon.Nuget.Server\\Packages": {},
         "http://braganca.orizon.local/Orizon.Nuget.Server/nuget": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
